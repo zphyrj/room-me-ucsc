@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "public": "build",
+    "spa": "404.html",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
